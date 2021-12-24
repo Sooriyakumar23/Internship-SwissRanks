@@ -17,13 +17,13 @@
   * Raspberry Pi 4B study and initial configuration
 
 # 2. Power and Flow monitoring system
-2.1. Power Monitoring system
+# 2.1. Power Monitoring system
   ** Current sensor selection
   ** Feasibility study : power consumption, functionality
   ** Sensor node conceptual design
   ** Display node conceptual design
   ** BOM creation
-2.2. Flow monitoring system
+# 2.2. Flow monitoring system
   ** Proposed two solutions [thermal, ultrasonic sensor]
   ** Theoretical study regarding ultrasonic sensor based flow monitoring
   ** Several experiments conducted using HC-SR04 ultrasonic sensor, arduino and pipeline
